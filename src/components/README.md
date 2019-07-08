@@ -10,7 +10,7 @@ Classified by Atomic Design.
 | Templates    | Templates place components within a layout and demonstrate the design’s underlying content structure.|
 | Pages(Views)    | Pages apply real content to templates and articulate variations to demonstrate the final UI and test the resilience of the design system.     |
 
-refs: [Atomic Design Methodology | Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com/chapter-2/)
+Quoted from: [Atomic Design Methodology | Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com/chapter-2/)
 
 
 ## Changed Pages to Views
