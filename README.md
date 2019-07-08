@@ -1,4 +1,4 @@
-# vue-cli3-atomic-design-template
+# vue-cli-atomic-design-template
 
 ## Project setup
 ```
