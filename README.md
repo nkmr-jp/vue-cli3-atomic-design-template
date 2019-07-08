@@ -29,7 +29,7 @@ yarn run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-# Commit message role
+# Commit message rule
 
 | emoji    | description     |
 | :------------- | :------------- |
